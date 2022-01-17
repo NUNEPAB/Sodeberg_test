@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "full_name": "test user",
+    "email": "test@blabla.com",
+    "current_address": "C. Dobla, 5, 28054 Madrid, Spain",
+    "permanent_address": "Street X, 28013 Madrid, Spain"
+  },
+  {
+    "id": "2",
+    "full_name": "John Smith",
+    "email": "john.smith@mailinator.com",
+    "current_address": "Street Smith 3, London, UK",
+    "permanent_address": "Street Smith 6, London, UK"
+  },
+  {
+    "id": "3",
+    "email": "thisisnotanemail"
+  }
+]
